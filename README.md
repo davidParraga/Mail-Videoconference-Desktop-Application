@@ -1,6 +1,10 @@
 # Mail/Videoconference Desktop Application
  An APP that allows having a videoconference and send emails.
 
+# Main file 👀
+Client code: "videoCliente.cs"
+Server code: "videoServer.cs"
+
 ## Starting 🚀
 
 _To get started you will need to download Visual Studio, whose link can be found in Prerequisites._
