@@ -2,19 +2,13 @@
  An APP that allows having a videoconference and send emails.
 
 # Main file 👀
-Client code: "videoCliente.cs"
 
+Client code: "videoCliente.cs"\
 Server code: "videoServer.cs"
-
-## Starting 🚀
-
-_To get started you will need to download Visual Studio, whose link can be found in Prerequisites._
-
-See **Deployment** to know how to deploy the project.
 
 ## Pre-requisites 📋
 
-_Download and install Visual Studio_
+_Download and install [Visual Studio](https://visualstudio.microsoft.com/es/downloads/)_
 
 ## Deploy 📦
 
